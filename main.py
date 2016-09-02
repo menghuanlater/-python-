@@ -1424,6 +1424,10 @@ if __name__=="__main__":
     tkinter.Button(aware1,text="点击退出",font=("楷体",12),bg="#FFFFF0",command=lambda:Exit_aware(aware1)).grid(row=1)
     main()
     
+'''
+this program
+'''
+    
     
     
 
